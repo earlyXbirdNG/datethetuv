@@ -1,0 +1,1903 @@
+{
+    "isRequestValid": true,
+    "timeRanges": [
+        {
+            "from": "07:00",
+            "to": "09:00",
+            "rangeClass": "07_00_09_00"
+        },
+        {
+            "from": "09:00",
+            "to": "11:00",
+            "rangeClass": "09_00_11_00"
+        },
+        {
+            "from": "11:00",
+            "to": "13:00",
+            "rangeClass": "11_00_13_00"
+        },
+        {
+            "from": "13:00",
+            "to": "15:00",
+            "rangeClass": "13_00_15_00"
+        },
+        {
+            "from": "15:00",
+            "to": "17:00",
+            "rangeClass": "15_00_17_00"
+        },
+        {
+            "from": "17:00",
+            "to": "19:00",
+            "rangeClass": "17_00_19_00"
+        }
+    ],
+    "timetables": [
+        {
+            "vic": {
+                "campaigns": [],
+                "events": [],
+                "vehicleServices": [],
+                "vehicleTypes": [],
+                "id": 371,
+                "distance": 0.0,
+                "openingHours": [],
+                "openingMessages": [],
+                "messages": [],
+                "isOnlineTerminable": false,
+                "externalLocale": "de-DE",
+                "isExternal": false,
+                "uid": "371-de-DE"
+            },
+            "status": 0,
+            "timeRangeVacancies": [
+                {
+                    "range": {
+                        "from": "07:00",
+                        "to": "09:00",
+                        "rangeClass": "07_00_09_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "07:00",
+                            "toTime": "07:15",
+                            "availableDates": [],
+                            "rangeClass": "07_00_07_15"
+                        },
+                        {
+                            "fromTime": "07:15",
+                            "toTime": "07:30",
+                            "availableDates": [],
+                            "rangeClass": "07_15_07_30"
+                        },
+                        {
+                            "fromTime": "07:30",
+                            "toTime": "07:45",
+                            "availableDates": [],
+                            "rangeClass": "07_30_07_45"
+                        },
+                        {
+                            "fromTime": "07:45",
+                            "toTime": "08:00",
+                            "availableDates": [],
+                            "rangeClass": "07_45_08_00"
+                        },
+                        {
+                            "fromTime": "08:00",
+                            "toTime": "08:15",
+                            "availableDates": [
+                                "08:00"
+                            ],
+                            "rangeClass": "08_00_08_15"
+                        },
+                        {
+                            "fromTime": "08:15",
+                            "toTime": "08:30",
+                            "availableDates": [],
+                            "rangeClass": "08_15_08_30"
+                        },
+                        {
+                            "fromTime": "08:30",
+                            "toTime": "08:45",
+                            "availableDates": [],
+                            "rangeClass": "08_30_08_45"
+                        },
+                        {
+                            "fromTime": "08:45",
+                            "toTime": "09:00",
+                            "availableDates": [],
+                            "rangeClass": "08_45_09_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "09:00",
+                        "to": "11:00",
+                        "rangeClass": "09_00_11_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "09:00",
+                            "toTime": "09:15",
+                            "availableDates": [
+                                "09:00"
+                            ],
+                            "rangeClass": "09_00_09_15"
+                        },
+                        {
+                            "fromTime": "09:15",
+                            "toTime": "09:30",
+                            "availableDates": [],
+                            "rangeClass": "09_15_09_30"
+                        },
+                        {
+                            "fromTime": "09:30",
+                            "toTime": "09:45",
+                            "availableDates": [],
+                            "rangeClass": "09_30_09_45"
+                        },
+                        {
+                            "fromTime": "09:45",
+                            "toTime": "10:00",
+                            "availableDates": [],
+                            "rangeClass": "09_45_10_00"
+                        },
+                        {
+                            "fromTime": "10:00",
+                            "toTime": "10:15",
+                            "availableDates": [
+                                "10:00"
+                            ],
+                            "rangeClass": "10_00_10_15"
+                        },
+                        {
+                            "fromTime": "10:15",
+                            "toTime": "10:30",
+                            "availableDates": [],
+                            "rangeClass": "10_15_10_30"
+                        },
+                        {
+                            "fromTime": "10:30",
+                            "toTime": "10:45",
+                            "availableDates": [],
+                            "rangeClass": "10_30_10_45"
+                        },
+                        {
+                            "fromTime": "10:45",
+                            "toTime": "11:00",
+                            "availableDates": [],
+                            "rangeClass": "10_45_11_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "11:00",
+                        "to": "13:00",
+                        "rangeClass": "11_00_13_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "11:00",
+                            "toTime": "11:15",
+                            "availableDates": [
+                                "11:00"
+                            ],
+                            "rangeClass": "11_00_11_15"
+                        },
+                        {
+                            "fromTime": "11:15",
+                            "toTime": "11:30",
+                            "availableDates": [],
+                            "rangeClass": "11_15_11_30"
+                        },
+                        {
+                            "fromTime": "11:30",
+                            "toTime": "11:45",
+                            "availableDates": [],
+                            "rangeClass": "11_30_11_45"
+                        },
+                        {
+                            "fromTime": "11:45",
+                            "toTime": "12:00",
+                            "availableDates": [],
+                            "rangeClass": "11_45_12_00"
+                        },
+                        {
+                            "fromTime": "12:00",
+                            "toTime": "12:15",
+                            "availableDates": [],
+                            "rangeClass": "12_00_12_15"
+                        },
+                        {
+                            "fromTime": "12:15",
+                            "toTime": "12:30",
+                            "availableDates": [],
+                            "rangeClass": "12_15_12_30"
+                        },
+                        {
+                            "fromTime": "12:30",
+                            "toTime": "12:45",
+                            "availableDates": [
+                                "12:30"
+                            ],
+                            "rangeClass": "12_30_12_45"
+                        },
+                        {
+                            "fromTime": "12:45",
+                            "toTime": "13:00",
+                            "availableDates": [],
+                            "rangeClass": "12_45_13_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "13:00",
+                        "to": "15:00",
+                        "rangeClass": "13_00_15_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "13:00",
+                            "toTime": "13:15",
+                            "availableDates": [],
+                            "rangeClass": "13_00_13_15"
+                        },
+                        {
+                            "fromTime": "13:15",
+                            "toTime": "13:30",
+                            "availableDates": [],
+                            "rangeClass": "13_15_13_30"
+                        },
+                        {
+                            "fromTime": "13:30",
+                            "toTime": "13:45",
+                            "availableDates": [
+                                "13:30"
+                            ],
+                            "rangeClass": "13_30_13_45"
+                        },
+                        {
+                            "fromTime": "13:45",
+                            "toTime": "14:00",
+                            "availableDates": [],
+                            "rangeClass": "13_45_14_00"
+                        },
+                        {
+                            "fromTime": "14:00",
+                            "toTime": "14:15",
+                            "availableDates": [],
+                            "rangeClass": "14_00_14_15"
+                        },
+                        {
+                            "fromTime": "14:15",
+                            "toTime": "14:30",
+                            "availableDates": [],
+                            "rangeClass": "14_15_14_30"
+                        },
+                        {
+                            "fromTime": "14:30",
+                            "toTime": "14:45",
+                            "availableDates": [
+                                "14:30"
+                            ],
+                            "rangeClass": "14_30_14_45"
+                        },
+                        {
+                            "fromTime": "14:45",
+                            "toTime": "15:00",
+                            "availableDates": [],
+                            "rangeClass": "14_45_15_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "15:00",
+                        "to": "17:00",
+                        "rangeClass": "15_00_17_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "15:00",
+                            "toTime": "15:15",
+                            "availableDates": [],
+                            "rangeClass": "15_00_15_15"
+                        },
+                        {
+                            "fromTime": "15:15",
+                            "toTime": "15:30",
+                            "availableDates": [],
+                            "rangeClass": "15_15_15_30"
+                        },
+                        {
+                            "fromTime": "15:30",
+                            "toTime": "15:45",
+                            "availableDates": [
+                                "15:30"
+                            ],
+                            "rangeClass": "15_30_15_45"
+                        },
+                        {
+                            "fromTime": "15:45",
+                            "toTime": "16:00",
+                            "availableDates": [],
+                            "rangeClass": "15_45_16_00"
+                        },
+                        {
+                            "fromTime": "16:00",
+                            "toTime": "16:15",
+                            "availableDates": [],
+                            "rangeClass": "16_00_16_15"
+                        },
+                        {
+                            "fromTime": "16:15",
+                            "toTime": "16:30",
+                            "availableDates": [],
+                            "rangeClass": "16_15_16_30"
+                        },
+                        {
+                            "fromTime": "16:30",
+                            "toTime": "16:45",
+                            "availableDates": [],
+                            "rangeClass": "16_30_16_45"
+                        },
+                        {
+                            "fromTime": "16:45",
+                            "toTime": "17:00",
+                            "availableDates": [],
+                            "rangeClass": "16_45_17_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "17:00",
+                        "to": "19:00",
+                        "rangeClass": "17_00_19_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "17:00",
+                            "toTime": "17:15",
+                            "availableDates": [],
+                            "rangeClass": "17_00_17_15"
+                        },
+                        {
+                            "fromTime": "17:15",
+                            "toTime": "17:30",
+                            "availableDates": [],
+                            "rangeClass": "17_15_17_30"
+                        },
+                        {
+                            "fromTime": "17:30",
+                            "toTime": "17:45",
+                            "availableDates": [],
+                            "rangeClass": "17_30_17_45"
+                        },
+                        {
+                            "fromTime": "17:45",
+                            "toTime": "18:00",
+                            "availableDates": [],
+                            "rangeClass": "17_45_18_00"
+                        },
+                        {
+                            "fromTime": "18:00",
+                            "toTime": "18:15",
+                            "availableDates": [],
+                            "rangeClass": "18_00_18_15"
+                        },
+                        {
+                            "fromTime": "18:15",
+                            "toTime": "18:30",
+                            "availableDates": [],
+                            "rangeClass": "18_15_18_30"
+                        },
+                        {
+                            "fromTime": "18:30",
+                            "toTime": "18:45",
+                            "availableDates": [],
+                            "rangeClass": "18_30_18_45"
+                        },
+                        {
+                            "fromTime": "18:45",
+                            "toTime": "19:00",
+                            "availableDates": [],
+                            "rangeClass": "18_45_19_00"
+                        }
+                    ],
+                    "hasTimes": false
+                }
+            ]
+        },
+        {
+            "vic": {
+                "campaigns": [],
+                "events": [],
+                "vehicleServices": [],
+                "vehicleTypes": [],
+                "id": 380,
+                "distance": 0.0,
+                "openingHours": [],
+                "openingMessages": [],
+                "messages": [],
+                "isOnlineTerminable": false,
+                "externalLocale": "de-DE",
+                "isExternal": false,
+                "uid": "380-de-DE"
+            },
+            "status": 0,
+            "timeRangeVacancies": [
+                {
+                    "range": {
+                        "from": "07:00",
+                        "to": "09:00",
+                        "rangeClass": "07_00_09_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "07:00",
+                            "toTime": "07:15",
+                            "availableDates": [],
+                            "rangeClass": "07_00_07_15"
+                        },
+                        {
+                            "fromTime": "07:15",
+                            "toTime": "07:30",
+                            "availableDates": [],
+                            "rangeClass": "07_15_07_30"
+                        },
+                        {
+                            "fromTime": "07:30",
+                            "toTime": "07:45",
+                            "availableDates": [],
+                            "rangeClass": "07_30_07_45"
+                        },
+                        {
+                            "fromTime": "07:45",
+                            "toTime": "08:00",
+                            "availableDates": [],
+                            "rangeClass": "07_45_08_00"
+                        },
+                        {
+                            "fromTime": "08:00",
+                            "toTime": "08:15",
+                            "availableDates": [],
+                            "rangeClass": "08_00_08_15"
+                        },
+                        {
+                            "fromTime": "08:15",
+                            "toTime": "08:30",
+                            "availableDates": [],
+                            "rangeClass": "08_15_08_30"
+                        },
+                        {
+                            "fromTime": "08:30",
+                            "toTime": "08:45",
+                            "availableDates": [],
+                            "rangeClass": "08_30_08_45"
+                        },
+                        {
+                            "fromTime": "08:45",
+                            "toTime": "09:00",
+                            "availableDates": [],
+                            "rangeClass": "08_45_09_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "09:00",
+                        "to": "11:00",
+                        "rangeClass": "09_00_11_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "09:00",
+                            "toTime": "09:15",
+                            "availableDates": [],
+                            "rangeClass": "09_00_09_15"
+                        },
+                        {
+                            "fromTime": "09:15",
+                            "toTime": "09:30",
+                            "availableDates": [],
+                            "rangeClass": "09_15_09_30"
+                        },
+                        {
+                            "fromTime": "09:30",
+                            "toTime": "09:45",
+                            "availableDates": [],
+                            "rangeClass": "09_30_09_45"
+                        },
+                        {
+                            "fromTime": "09:45",
+                            "toTime": "10:00",
+                            "availableDates": [],
+                            "rangeClass": "09_45_10_00"
+                        },
+                        {
+                            "fromTime": "10:00",
+                            "toTime": "10:15",
+                            "availableDates": [],
+                            "rangeClass": "10_00_10_15"
+                        },
+                        {
+                            "fromTime": "10:15",
+                            "toTime": "10:30",
+                            "availableDates": [],
+                            "rangeClass": "10_15_10_30"
+                        },
+                        {
+                            "fromTime": "10:30",
+                            "toTime": "10:45",
+                            "availableDates": [],
+                            "rangeClass": "10_30_10_45"
+                        },
+                        {
+                            "fromTime": "10:45",
+                            "toTime": "11:00",
+                            "availableDates": [],
+                            "rangeClass": "10_45_11_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "11:00",
+                        "to": "13:00",
+                        "rangeClass": "11_00_13_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "11:00",
+                            "toTime": "11:15",
+                            "availableDates": [
+                                "11:00"
+                            ],
+                            "rangeClass": "11_00_11_15"
+                        },
+                        {
+                            "fromTime": "11:15",
+                            "toTime": "11:30",
+                            "availableDates": [],
+                            "rangeClass": "11_15_11_30"
+                        },
+                        {
+                            "fromTime": "11:30",
+                            "toTime": "11:45",
+                            "availableDates": [],
+                            "rangeClass": "11_30_11_45"
+                        },
+                        {
+                            "fromTime": "11:45",
+                            "toTime": "12:00",
+                            "availableDates": [],
+                            "rangeClass": "11_45_12_00"
+                        },
+                        {
+                            "fromTime": "12:00",
+                            "toTime": "12:15",
+                            "availableDates": [],
+                            "rangeClass": "12_00_12_15"
+                        },
+                        {
+                            "fromTime": "12:15",
+                            "toTime": "12:30",
+                            "availableDates": [],
+                            "rangeClass": "12_15_12_30"
+                        },
+                        {
+                            "fromTime": "12:30",
+                            "toTime": "12:45",
+                            "availableDates": [
+                                "12:30"
+                            ],
+                            "rangeClass": "12_30_12_45"
+                        },
+                        {
+                            "fromTime": "12:45",
+                            "toTime": "13:00",
+                            "availableDates": [],
+                            "rangeClass": "12_45_13_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "13:00",
+                        "to": "15:00",
+                        "rangeClass": "13_00_15_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "13:00",
+                            "toTime": "13:15",
+                            "availableDates": [],
+                            "rangeClass": "13_00_13_15"
+                        },
+                        {
+                            "fromTime": "13:15",
+                            "toTime": "13:30",
+                            "availableDates": [],
+                            "rangeClass": "13_15_13_30"
+                        },
+                        {
+                            "fromTime": "13:30",
+                            "toTime": "13:45",
+                            "availableDates": [
+                                "13:30"
+                            ],
+                            "rangeClass": "13_30_13_45"
+                        },
+                        {
+                            "fromTime": "13:45",
+                            "toTime": "14:00",
+                            "availableDates": [],
+                            "rangeClass": "13_45_14_00"
+                        },
+                        {
+                            "fromTime": "14:00",
+                            "toTime": "14:15",
+                            "availableDates": [],
+                            "rangeClass": "14_00_14_15"
+                        },
+                        {
+                            "fromTime": "14:15",
+                            "toTime": "14:30",
+                            "availableDates": [],
+                            "rangeClass": "14_15_14_30"
+                        },
+                        {
+                            "fromTime": "14:30",
+                            "toTime": "14:45",
+                            "availableDates": [
+                                "14:30"
+                            ],
+                            "rangeClass": "14_30_14_45"
+                        },
+                        {
+                            "fromTime": "14:45",
+                            "toTime": "15:00",
+                            "availableDates": [],
+                            "rangeClass": "14_45_15_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "15:00",
+                        "to": "17:00",
+                        "rangeClass": "15_00_17_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "15:00",
+                            "toTime": "15:15",
+                            "availableDates": [],
+                            "rangeClass": "15_00_15_15"
+                        },
+                        {
+                            "fromTime": "15:15",
+                            "toTime": "15:30",
+                            "availableDates": [],
+                            "rangeClass": "15_15_15_30"
+                        },
+                        {
+                            "fromTime": "15:30",
+                            "toTime": "15:45",
+                            "availableDates": [
+                                "15:30"
+                            ],
+                            "rangeClass": "15_30_15_45"
+                        },
+                        {
+                            "fromTime": "15:45",
+                            "toTime": "16:00",
+                            "availableDates": [],
+                            "rangeClass": "15_45_16_00"
+                        },
+                        {
+                            "fromTime": "16:00",
+                            "toTime": "16:15",
+                            "availableDates": [],
+                            "rangeClass": "16_00_16_15"
+                        },
+                        {
+                            "fromTime": "16:15",
+                            "toTime": "16:30",
+                            "availableDates": [],
+                            "rangeClass": "16_15_16_30"
+                        },
+                        {
+                            "fromTime": "16:30",
+                            "toTime": "16:45",
+                            "availableDates": [],
+                            "rangeClass": "16_30_16_45"
+                        },
+                        {
+                            "fromTime": "16:45",
+                            "toTime": "17:00",
+                            "availableDates": [],
+                            "rangeClass": "16_45_17_00"
+                        }
+                    ],
+                    "hasTimes": true
+                },
+                {
+                    "range": {
+                        "from": "17:00",
+                        "to": "19:00",
+                        "rangeClass": "17_00_19_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "17:00",
+                            "toTime": "17:15",
+                            "availableDates": [],
+                            "rangeClass": "17_00_17_15"
+                        },
+                        {
+                            "fromTime": "17:15",
+                            "toTime": "17:30",
+                            "availableDates": [],
+                            "rangeClass": "17_15_17_30"
+                        },
+                        {
+                            "fromTime": "17:30",
+                            "toTime": "17:45",
+                            "availableDates": [],
+                            "rangeClass": "17_30_17_45"
+                        },
+                        {
+                            "fromTime": "17:45",
+                            "toTime": "18:00",
+                            "availableDates": [],
+                            "rangeClass": "17_45_18_00"
+                        },
+                        {
+                            "fromTime": "18:00",
+                            "toTime": "18:15",
+                            "availableDates": [],
+                            "rangeClass": "18_00_18_15"
+                        },
+                        {
+                            "fromTime": "18:15",
+                            "toTime": "18:30",
+                            "availableDates": [],
+                            "rangeClass": "18_15_18_30"
+                        },
+                        {
+                            "fromTime": "18:30",
+                            "toTime": "18:45",
+                            "availableDates": [],
+                            "rangeClass": "18_30_18_45"
+                        },
+                        {
+                            "fromTime": "18:45",
+                            "toTime": "19:00",
+                            "availableDates": [],
+                            "rangeClass": "18_45_19_00"
+                        }
+                    ],
+                    "hasTimes": false
+                }
+            ]
+        },
+        {
+            "vic": {
+                "campaigns": [],
+                "events": [],
+                "vehicleServices": [],
+                "vehicleTypes": [],
+                "id": 376,
+                "distance": 0.0,
+                "openingHours": [],
+                "openingMessages": [],
+                "messages": [],
+                "isOnlineTerminable": false,
+                "externalLocale": "de-DE",
+                "isExternal": false,
+                "uid": "376-de-DE"
+            },
+            "status": 1,
+            "timeRangeVacancies": [
+                {
+                    "range": {
+                        "from": "07:00",
+                        "to": "09:00",
+                        "rangeClass": "07_00_09_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "07:00",
+                            "toTime": "07:15",
+                            "availableDates": [],
+                            "rangeClass": "07_00_07_15"
+                        },
+                        {
+                            "fromTime": "07:15",
+                            "toTime": "07:30",
+                            "availableDates": [],
+                            "rangeClass": "07_15_07_30"
+                        },
+                        {
+                            "fromTime": "07:30",
+                            "toTime": "07:45",
+                            "availableDates": [],
+                            "rangeClass": "07_30_07_45"
+                        },
+                        {
+                            "fromTime": "07:45",
+                            "toTime": "08:00",
+                            "availableDates": [],
+                            "rangeClass": "07_45_08_00"
+                        },
+                        {
+                            "fromTime": "08:00",
+                            "toTime": "08:15",
+                            "availableDates": [],
+                            "rangeClass": "08_00_08_15"
+                        },
+                        {
+                            "fromTime": "08:15",
+                            "toTime": "08:30",
+                            "availableDates": [],
+                            "rangeClass": "08_15_08_30"
+                        },
+                        {
+                            "fromTime": "08:30",
+                            "toTime": "08:45",
+                            "availableDates": [],
+                            "rangeClass": "08_30_08_45"
+                        },
+                        {
+                            "fromTime": "08:45",
+                            "toTime": "09:00",
+                            "availableDates": [],
+                            "rangeClass": "08_45_09_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "09:00",
+                        "to": "11:00",
+                        "rangeClass": "09_00_11_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "09:00",
+                            "toTime": "09:15",
+                            "availableDates": [],
+                            "rangeClass": "09_00_09_15"
+                        },
+                        {
+                            "fromTime": "09:15",
+                            "toTime": "09:30",
+                            "availableDates": [],
+                            "rangeClass": "09_15_09_30"
+                        },
+                        {
+                            "fromTime": "09:30",
+                            "toTime": "09:45",
+                            "availableDates": [],
+                            "rangeClass": "09_30_09_45"
+                        },
+                        {
+                            "fromTime": "09:45",
+                            "toTime": "10:00",
+                            "availableDates": [],
+                            "rangeClass": "09_45_10_00"
+                        },
+                        {
+                            "fromTime": "10:00",
+                            "toTime": "10:15",
+                            "availableDates": [],
+                            "rangeClass": "10_00_10_15"
+                        },
+                        {
+                            "fromTime": "10:15",
+                            "toTime": "10:30",
+                            "availableDates": [],
+                            "rangeClass": "10_15_10_30"
+                        },
+                        {
+                            "fromTime": "10:30",
+                            "toTime": "10:45",
+                            "availableDates": [],
+                            "rangeClass": "10_30_10_45"
+                        },
+                        {
+                            "fromTime": "10:45",
+                            "toTime": "11:00",
+                            "availableDates": [],
+                            "rangeClass": "10_45_11_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "11:00",
+                        "to": "13:00",
+                        "rangeClass": "11_00_13_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "11:00",
+                            "toTime": "11:15",
+                            "availableDates": [],
+                            "rangeClass": "11_00_11_15"
+                        },
+                        {
+                            "fromTime": "11:15",
+                            "toTime": "11:30",
+                            "availableDates": [],
+                            "rangeClass": "11_15_11_30"
+                        },
+                        {
+                            "fromTime": "11:30",
+                            "toTime": "11:45",
+                            "availableDates": [],
+                            "rangeClass": "11_30_11_45"
+                        },
+                        {
+                            "fromTime": "11:45",
+                            "toTime": "12:00",
+                            "availableDates": [],
+                            "rangeClass": "11_45_12_00"
+                        },
+                        {
+                            "fromTime": "12:00",
+                            "toTime": "12:15",
+                            "availableDates": [],
+                            "rangeClass": "12_00_12_15"
+                        },
+                        {
+                            "fromTime": "12:15",
+                            "toTime": "12:30",
+                            "availableDates": [],
+                            "rangeClass": "12_15_12_30"
+                        },
+                        {
+                            "fromTime": "12:30",
+                            "toTime": "12:45",
+                            "availableDates": [],
+                            "rangeClass": "12_30_12_45"
+                        },
+                        {
+                            "fromTime": "12:45",
+                            "toTime": "13:00",
+                            "availableDates": [],
+                            "rangeClass": "12_45_13_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "13:00",
+                        "to": "15:00",
+                        "rangeClass": "13_00_15_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "13:00",
+                            "toTime": "13:15",
+                            "availableDates": [],
+                            "rangeClass": "13_00_13_15"
+                        },
+                        {
+                            "fromTime": "13:15",
+                            "toTime": "13:30",
+                            "availableDates": [],
+                            "rangeClass": "13_15_13_30"
+                        },
+                        {
+                            "fromTime": "13:30",
+                            "toTime": "13:45",
+                            "availableDates": [],
+                            "rangeClass": "13_30_13_45"
+                        },
+                        {
+                            "fromTime": "13:45",
+                            "toTime": "14:00",
+                            "availableDates": [],
+                            "rangeClass": "13_45_14_00"
+                        },
+                        {
+                            "fromTime": "14:00",
+                            "toTime": "14:15",
+                            "availableDates": [],
+                            "rangeClass": "14_00_14_15"
+                        },
+                        {
+                            "fromTime": "14:15",
+                            "toTime": "14:30",
+                            "availableDates": [],
+                            "rangeClass": "14_15_14_30"
+                        },
+                        {
+                            "fromTime": "14:30",
+                            "toTime": "14:45",
+                            "availableDates": [],
+                            "rangeClass": "14_30_14_45"
+                        },
+                        {
+                            "fromTime": "14:45",
+                            "toTime": "15:00",
+                            "availableDates": [],
+                            "rangeClass": "14_45_15_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "15:00",
+                        "to": "17:00",
+                        "rangeClass": "15_00_17_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "15:00",
+                            "toTime": "15:15",
+                            "availableDates": [],
+                            "rangeClass": "15_00_15_15"
+                        },
+                        {
+                            "fromTime": "15:15",
+                            "toTime": "15:30",
+                            "availableDates": [],
+                            "rangeClass": "15_15_15_30"
+                        },
+                        {
+                            "fromTime": "15:30",
+                            "toTime": "15:45",
+                            "availableDates": [],
+                            "rangeClass": "15_30_15_45"
+                        },
+                        {
+                            "fromTime": "15:45",
+                            "toTime": "16:00",
+                            "availableDates": [],
+                            "rangeClass": "15_45_16_00"
+                        },
+                        {
+                            "fromTime": "16:00",
+                            "toTime": "16:15",
+                            "availableDates": [],
+                            "rangeClass": "16_00_16_15"
+                        },
+                        {
+                            "fromTime": "16:15",
+                            "toTime": "16:30",
+                            "availableDates": [],
+                            "rangeClass": "16_15_16_30"
+                        },
+                        {
+                            "fromTime": "16:30",
+                            "toTime": "16:45",
+                            "availableDates": [],
+                            "rangeClass": "16_30_16_45"
+                        },
+                        {
+                            "fromTime": "16:45",
+                            "toTime": "17:00",
+                            "availableDates": [],
+                            "rangeClass": "16_45_17_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "17:00",
+                        "to": "19:00",
+                        "rangeClass": "17_00_19_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "17:00",
+                            "toTime": "17:15",
+                            "availableDates": [],
+                            "rangeClass": "17_00_17_15"
+                        },
+                        {
+                            "fromTime": "17:15",
+                            "toTime": "17:30",
+                            "availableDates": [],
+                            "rangeClass": "17_15_17_30"
+                        },
+                        {
+                            "fromTime": "17:30",
+                            "toTime": "17:45",
+                            "availableDates": [],
+                            "rangeClass": "17_30_17_45"
+                        },
+                        {
+                            "fromTime": "17:45",
+                            "toTime": "18:00",
+                            "availableDates": [],
+                            "rangeClass": "17_45_18_00"
+                        },
+                        {
+                            "fromTime": "18:00",
+                            "toTime": "18:15",
+                            "availableDates": [],
+                            "rangeClass": "18_00_18_15"
+                        },
+                        {
+                            "fromTime": "18:15",
+                            "toTime": "18:30",
+                            "availableDates": [],
+                            "rangeClass": "18_15_18_30"
+                        },
+                        {
+                            "fromTime": "18:30",
+                            "toTime": "18:45",
+                            "availableDates": [],
+                            "rangeClass": "18_30_18_45"
+                        },
+                        {
+                            "fromTime": "18:45",
+                            "toTime": "19:00",
+                            "availableDates": [],
+                            "rangeClass": "18_45_19_00"
+                        }
+                    ],
+                    "hasTimes": false
+                }
+            ]
+        },
+        {
+            "vic": {
+                "campaigns": [],
+                "events": [],
+                "vehicleServices": [],
+                "vehicleTypes": [],
+                "id": 372,
+                "distance": 0.0,
+                "openingHours": [],
+                "openingMessages": [],
+                "messages": [],
+                "isOnlineTerminable": false,
+                "externalLocale": "de-DE",
+                "isExternal": false,
+                "uid": "372-de-DE"
+            },
+            "status": 1,
+            "timeRangeVacancies": [
+                {
+                    "range": {
+                        "from": "07:00",
+                        "to": "09:00",
+                        "rangeClass": "07_00_09_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "07:00",
+                            "toTime": "07:15",
+                            "availableDates": [],
+                            "rangeClass": "07_00_07_15"
+                        },
+                        {
+                            "fromTime": "07:15",
+                            "toTime": "07:30",
+                            "availableDates": [],
+                            "rangeClass": "07_15_07_30"
+                        },
+                        {
+                            "fromTime": "07:30",
+                            "toTime": "07:45",
+                            "availableDates": [],
+                            "rangeClass": "07_30_07_45"
+                        },
+                        {
+                            "fromTime": "07:45",
+                            "toTime": "08:00",
+                            "availableDates": [],
+                            "rangeClass": "07_45_08_00"
+                        },
+                        {
+                            "fromTime": "08:00",
+                            "toTime": "08:15",
+                            "availableDates": [],
+                            "rangeClass": "08_00_08_15"
+                        },
+                        {
+                            "fromTime": "08:15",
+                            "toTime": "08:30",
+                            "availableDates": [],
+                            "rangeClass": "08_15_08_30"
+                        },
+                        {
+                            "fromTime": "08:30",
+                            "toTime": "08:45",
+                            "availableDates": [],
+                            "rangeClass": "08_30_08_45"
+                        },
+                        {
+                            "fromTime": "08:45",
+                            "toTime": "09:00",
+                            "availableDates": [],
+                            "rangeClass": "08_45_09_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "09:00",
+                        "to": "11:00",
+                        "rangeClass": "09_00_11_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "09:00",
+                            "toTime": "09:15",
+                            "availableDates": [],
+                            "rangeClass": "09_00_09_15"
+                        },
+                        {
+                            "fromTime": "09:15",
+                            "toTime": "09:30",
+                            "availableDates": [],
+                            "rangeClass": "09_15_09_30"
+                        },
+                        {
+                            "fromTime": "09:30",
+                            "toTime": "09:45",
+                            "availableDates": [],
+                            "rangeClass": "09_30_09_45"
+                        },
+                        {
+                            "fromTime": "09:45",
+                            "toTime": "10:00",
+                            "availableDates": [],
+                            "rangeClass": "09_45_10_00"
+                        },
+                        {
+                            "fromTime": "10:00",
+                            "toTime": "10:15",
+                            "availableDates": [],
+                            "rangeClass": "10_00_10_15"
+                        },
+                        {
+                            "fromTime": "10:15",
+                            "toTime": "10:30",
+                            "availableDates": [],
+                            "rangeClass": "10_15_10_30"
+                        },
+                        {
+                            "fromTime": "10:30",
+                            "toTime": "10:45",
+                            "availableDates": [],
+                            "rangeClass": "10_30_10_45"
+                        },
+                        {
+                            "fromTime": "10:45",
+                            "toTime": "11:00",
+                            "availableDates": [],
+                            "rangeClass": "10_45_11_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "11:00",
+                        "to": "13:00",
+                        "rangeClass": "11_00_13_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "11:00",
+                            "toTime": "11:15",
+                            "availableDates": [],
+                            "rangeClass": "11_00_11_15"
+                        },
+                        {
+                            "fromTime": "11:15",
+                            "toTime": "11:30",
+                            "availableDates": [],
+                            "rangeClass": "11_15_11_30"
+                        },
+                        {
+                            "fromTime": "11:30",
+                            "toTime": "11:45",
+                            "availableDates": [],
+                            "rangeClass": "11_30_11_45"
+                        },
+                        {
+                            "fromTime": "11:45",
+                            "toTime": "12:00",
+                            "availableDates": [],
+                            "rangeClass": "11_45_12_00"
+                        },
+                        {
+                            "fromTime": "12:00",
+                            "toTime": "12:15",
+                            "availableDates": [],
+                            "rangeClass": "12_00_12_15"
+                        },
+                        {
+                            "fromTime": "12:15",
+                            "toTime": "12:30",
+                            "availableDates": [],
+                            "rangeClass": "12_15_12_30"
+                        },
+                        {
+                            "fromTime": "12:30",
+                            "toTime": "12:45",
+                            "availableDates": [],
+                            "rangeClass": "12_30_12_45"
+                        },
+                        {
+                            "fromTime": "12:45",
+                            "toTime": "13:00",
+                            "availableDates": [],
+                            "rangeClass": "12_45_13_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "13:00",
+                        "to": "15:00",
+                        "rangeClass": "13_00_15_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "13:00",
+                            "toTime": "13:15",
+                            "availableDates": [],
+                            "rangeClass": "13_00_13_15"
+                        },
+                        {
+                            "fromTime": "13:15",
+                            "toTime": "13:30",
+                            "availableDates": [],
+                            "rangeClass": "13_15_13_30"
+                        },
+                        {
+                            "fromTime": "13:30",
+                            "toTime": "13:45",
+                            "availableDates": [],
+                            "rangeClass": "13_30_13_45"
+                        },
+                        {
+                            "fromTime": "13:45",
+                            "toTime": "14:00",
+                            "availableDates": [],
+                            "rangeClass": "13_45_14_00"
+                        },
+                        {
+                            "fromTime": "14:00",
+                            "toTime": "14:15",
+                            "availableDates": [],
+                            "rangeClass": "14_00_14_15"
+                        },
+                        {
+                            "fromTime": "14:15",
+                            "toTime": "14:30",
+                            "availableDates": [],
+                            "rangeClass": "14_15_14_30"
+                        },
+                        {
+                            "fromTime": "14:30",
+                            "toTime": "14:45",
+                            "availableDates": [],
+                            "rangeClass": "14_30_14_45"
+                        },
+                        {
+                            "fromTime": "14:45",
+                            "toTime": "15:00",
+                            "availableDates": [],
+                            "rangeClass": "14_45_15_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "15:00",
+                        "to": "17:00",
+                        "rangeClass": "15_00_17_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "15:00",
+                            "toTime": "15:15",
+                            "availableDates": [],
+                            "rangeClass": "15_00_15_15"
+                        },
+                        {
+                            "fromTime": "15:15",
+                            "toTime": "15:30",
+                            "availableDates": [],
+                            "rangeClass": "15_15_15_30"
+                        },
+                        {
+                            "fromTime": "15:30",
+                            "toTime": "15:45",
+                            "availableDates": [],
+                            "rangeClass": "15_30_15_45"
+                        },
+                        {
+                            "fromTime": "15:45",
+                            "toTime": "16:00",
+                            "availableDates": [],
+                            "rangeClass": "15_45_16_00"
+                        },
+                        {
+                            "fromTime": "16:00",
+                            "toTime": "16:15",
+                            "availableDates": [],
+                            "rangeClass": "16_00_16_15"
+                        },
+                        {
+                            "fromTime": "16:15",
+                            "toTime": "16:30",
+                            "availableDates": [],
+                            "rangeClass": "16_15_16_30"
+                        },
+                        {
+                            "fromTime": "16:30",
+                            "toTime": "16:45",
+                            "availableDates": [],
+                            "rangeClass": "16_30_16_45"
+                        },
+                        {
+                            "fromTime": "16:45",
+                            "toTime": "17:00",
+                            "availableDates": [],
+                            "rangeClass": "16_45_17_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "17:00",
+                        "to": "19:00",
+                        "rangeClass": "17_00_19_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "17:00",
+                            "toTime": "17:15",
+                            "availableDates": [],
+                            "rangeClass": "17_00_17_15"
+                        },
+                        {
+                            "fromTime": "17:15",
+                            "toTime": "17:30",
+                            "availableDates": [],
+                            "rangeClass": "17_15_17_30"
+                        },
+                        {
+                            "fromTime": "17:30",
+                            "toTime": "17:45",
+                            "availableDates": [],
+                            "rangeClass": "17_30_17_45"
+                        },
+                        {
+                            "fromTime": "17:45",
+                            "toTime": "18:00",
+                            "availableDates": [],
+                            "rangeClass": "17_45_18_00"
+                        },
+                        {
+                            "fromTime": "18:00",
+                            "toTime": "18:15",
+                            "availableDates": [],
+                            "rangeClass": "18_00_18_15"
+                        },
+                        {
+                            "fromTime": "18:15",
+                            "toTime": "18:30",
+                            "availableDates": [],
+                            "rangeClass": "18_15_18_30"
+                        },
+                        {
+                            "fromTime": "18:30",
+                            "toTime": "18:45",
+                            "availableDates": [],
+                            "rangeClass": "18_30_18_45"
+                        },
+                        {
+                            "fromTime": "18:45",
+                            "toTime": "19:00",
+                            "availableDates": [],
+                            "rangeClass": "18_45_19_00"
+                        }
+                    ],
+                    "hasTimes": false
+                }
+            ]
+        },
+        {
+            "vic": {
+                "campaigns": [],
+                "events": [],
+                "vehicleServices": [],
+                "vehicleTypes": [],
+                "id": 381,
+                "distance": 0.0,
+                "openingHours": [],
+                "openingMessages": [],
+                "messages": [],
+                "isOnlineTerminable": false,
+                "externalLocale": "de-DE",
+                "isExternal": false,
+                "uid": "381-de-DE"
+            },
+            "status": 1,
+            "timeRangeVacancies": [
+                {
+                    "range": {
+                        "from": "07:00",
+                        "to": "09:00",
+                        "rangeClass": "07_00_09_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "07:00",
+                            "toTime": "07:15",
+                            "availableDates": [],
+                            "rangeClass": "07_00_07_15"
+                        },
+                        {
+                            "fromTime": "07:15",
+                            "toTime": "07:30",
+                            "availableDates": [],
+                            "rangeClass": "07_15_07_30"
+                        },
+                        {
+                            "fromTime": "07:30",
+                            "toTime": "07:45",
+                            "availableDates": [],
+                            "rangeClass": "07_30_07_45"
+                        },
+                        {
+                            "fromTime": "07:45",
+                            "toTime": "08:00",
+                            "availableDates": [],
+                            "rangeClass": "07_45_08_00"
+                        },
+                        {
+                            "fromTime": "08:00",
+                            "toTime": "08:15",
+                            "availableDates": [],
+                            "rangeClass": "08_00_08_15"
+                        },
+                        {
+                            "fromTime": "08:15",
+                            "toTime": "08:30",
+                            "availableDates": [],
+                            "rangeClass": "08_15_08_30"
+                        },
+                        {
+                            "fromTime": "08:30",
+                            "toTime": "08:45",
+                            "availableDates": [],
+                            "rangeClass": "08_30_08_45"
+                        },
+                        {
+                            "fromTime": "08:45",
+                            "toTime": "09:00",
+                            "availableDates": [],
+                            "rangeClass": "08_45_09_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "09:00",
+                        "to": "11:00",
+                        "rangeClass": "09_00_11_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "09:00",
+                            "toTime": "09:15",
+                            "availableDates": [],
+                            "rangeClass": "09_00_09_15"
+                        },
+                        {
+                            "fromTime": "09:15",
+                            "toTime": "09:30",
+                            "availableDates": [],
+                            "rangeClass": "09_15_09_30"
+                        },
+                        {
+                            "fromTime": "09:30",
+                            "toTime": "09:45",
+                            "availableDates": [],
+                            "rangeClass": "09_30_09_45"
+                        },
+                        {
+                            "fromTime": "09:45",
+                            "toTime": "10:00",
+                            "availableDates": [],
+                            "rangeClass": "09_45_10_00"
+                        },
+                        {
+                            "fromTime": "10:00",
+                            "toTime": "10:15",
+                            "availableDates": [],
+                            "rangeClass": "10_00_10_15"
+                        },
+                        {
+                            "fromTime": "10:15",
+                            "toTime": "10:30",
+                            "availableDates": [],
+                            "rangeClass": "10_15_10_30"
+                        },
+                        {
+                            "fromTime": "10:30",
+                            "toTime": "10:45",
+                            "availableDates": [],
+                            "rangeClass": "10_30_10_45"
+                        },
+                        {
+                            "fromTime": "10:45",
+                            "toTime": "11:00",
+                            "availableDates": [],
+                            "rangeClass": "10_45_11_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "11:00",
+                        "to": "13:00",
+                        "rangeClass": "11_00_13_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "11:00",
+                            "toTime": "11:15",
+                            "availableDates": [],
+                            "rangeClass": "11_00_11_15"
+                        },
+                        {
+                            "fromTime": "11:15",
+                            "toTime": "11:30",
+                            "availableDates": [],
+                            "rangeClass": "11_15_11_30"
+                        },
+                        {
+                            "fromTime": "11:30",
+                            "toTime": "11:45",
+                            "availableDates": [],
+                            "rangeClass": "11_30_11_45"
+                        },
+                        {
+                            "fromTime": "11:45",
+                            "toTime": "12:00",
+                            "availableDates": [],
+                            "rangeClass": "11_45_12_00"
+                        },
+                        {
+                            "fromTime": "12:00",
+                            "toTime": "12:15",
+                            "availableDates": [],
+                            "rangeClass": "12_00_12_15"
+                        },
+                        {
+                            "fromTime": "12:15",
+                            "toTime": "12:30",
+                            "availableDates": [],
+                            "rangeClass": "12_15_12_30"
+                        },
+                        {
+                            "fromTime": "12:30",
+                            "toTime": "12:45",
+                            "availableDates": [],
+                            "rangeClass": "12_30_12_45"
+                        },
+                        {
+                            "fromTime": "12:45",
+                            "toTime": "13:00",
+                            "availableDates": [],
+                            "rangeClass": "12_45_13_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "13:00",
+                        "to": "15:00",
+                        "rangeClass": "13_00_15_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "13:00",
+                            "toTime": "13:15",
+                            "availableDates": [],
+                            "rangeClass": "13_00_13_15"
+                        },
+                        {
+                            "fromTime": "13:15",
+                            "toTime": "13:30",
+                            "availableDates": [],
+                            "rangeClass": "13_15_13_30"
+                        },
+                        {
+                            "fromTime": "13:30",
+                            "toTime": "13:45",
+                            "availableDates": [],
+                            "rangeClass": "13_30_13_45"
+                        },
+                        {
+                            "fromTime": "13:45",
+                            "toTime": "14:00",
+                            "availableDates": [],
+                            "rangeClass": "13_45_14_00"
+                        },
+                        {
+                            "fromTime": "14:00",
+                            "toTime": "14:15",
+                            "availableDates": [],
+                            "rangeClass": "14_00_14_15"
+                        },
+                        {
+                            "fromTime": "14:15",
+                            "toTime": "14:30",
+                            "availableDates": [],
+                            "rangeClass": "14_15_14_30"
+                        },
+                        {
+                            "fromTime": "14:30",
+                            "toTime": "14:45",
+                            "availableDates": [],
+                            "rangeClass": "14_30_14_45"
+                        },
+                        {
+                            "fromTime": "14:45",
+                            "toTime": "15:00",
+                            "availableDates": [],
+                            "rangeClass": "14_45_15_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "15:00",
+                        "to": "17:00",
+                        "rangeClass": "15_00_17_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "15:00",
+                            "toTime": "15:15",
+                            "availableDates": [],
+                            "rangeClass": "15_00_15_15"
+                        },
+                        {
+                            "fromTime": "15:15",
+                            "toTime": "15:30",
+                            "availableDates": [],
+                            "rangeClass": "15_15_15_30"
+                        },
+                        {
+                            "fromTime": "15:30",
+                            "toTime": "15:45",
+                            "availableDates": [],
+                            "rangeClass": "15_30_15_45"
+                        },
+                        {
+                            "fromTime": "15:45",
+                            "toTime": "16:00",
+                            "availableDates": [],
+                            "rangeClass": "15_45_16_00"
+                        },
+                        {
+                            "fromTime": "16:00",
+                            "toTime": "16:15",
+                            "availableDates": [],
+                            "rangeClass": "16_00_16_15"
+                        },
+                        {
+                            "fromTime": "16:15",
+                            "toTime": "16:30",
+                            "availableDates": [],
+                            "rangeClass": "16_15_16_30"
+                        },
+                        {
+                            "fromTime": "16:30",
+                            "toTime": "16:45",
+                            "availableDates": [],
+                            "rangeClass": "16_30_16_45"
+                        },
+                        {
+                            "fromTime": "16:45",
+                            "toTime": "17:00",
+                            "availableDates": [],
+                            "rangeClass": "16_45_17_00"
+                        }
+                    ],
+                    "hasTimes": false
+                },
+                {
+                    "range": {
+                        "from": "17:00",
+                        "to": "19:00",
+                        "rangeClass": "17_00_19_00"
+                    },
+                    "timeslots": [
+                        {
+                            "fromTime": "17:00",
+                            "toTime": "17:15",
+                            "availableDates": [],
+                            "rangeClass": "17_00_17_15"
+                        },
+                        {
+                            "fromTime": "17:15",
+                            "toTime": "17:30",
+                            "availableDates": [],
+                            "rangeClass": "17_15_17_30"
+                        },
+                        {
+                            "fromTime": "17:30",
+                            "toTime": "17:45",
+                            "availableDates": [],
+                            "rangeClass": "17_30_17_45"
+                        },
+                        {
+                            "fromTime": "17:45",
+                            "toTime": "18:00",
+                            "availableDates": [],
+                            "rangeClass": "17_45_18_00"
+                        },
+                        {
+                            "fromTime": "18:00",
+                            "toTime": "18:15",
+                            "availableDates": [],
+                            "rangeClass": "18_00_18_15"
+                        },
+                        {
+                            "fromTime": "18:15",
+                            "toTime": "18:30",
+                            "availableDates": [],
+                            "rangeClass": "18_15_18_30"
+                        },
+                        {
+                            "fromTime": "18:30",
+                            "toTime": "18:45",
+                            "availableDates": [],
+                            "rangeClass": "18_30_18_45"
+                        },
+                        {
+                            "fromTime": "18:45",
+                            "toTime": "19:00",
+                            "availableDates": [],
+                            "rangeClass": "18_45_19_00"
+                        }
+                    ],
+                    "hasTimes": false
+                }
+            ]
+        }
+    ]
+}
